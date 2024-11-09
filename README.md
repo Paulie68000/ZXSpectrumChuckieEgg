@@ -9,6 +9,8 @@ The game was one of the first ZX Spectrum titles with pixel based sprite movemen
 
 ## A Peek under the hood
 
-### **The sprites**
+### **The Sprites**
 
-### **The screen layout**
+### **The Level Layout**
+
+### **Quirky Bits**
