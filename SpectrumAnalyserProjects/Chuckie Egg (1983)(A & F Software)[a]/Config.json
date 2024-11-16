@@ -1,0 +1,35 @@
+{
+    "128KGame": false,
+    "Machine": "",
+    "Name": "Chuckie Egg (1983)(A & F Software)[a]",
+    "Options": {
+        "ViewConfigs": [
+            {
+                "Enabled": true,
+                "ViewAddress": 38245,
+                "ViewAddressBank": 3
+            },
+            {
+                "Enabled": false,
+                "ViewAddress": 0,
+                "ViewAddressBank": -1
+            },
+            {
+                "Enabled": false,
+                "ViewAddress": 0,
+                "ViewAddressBank": -1
+            },
+            {
+                "Enabled": false,
+                "ViewAddress": 0,
+                "ViewAddressBank": -1
+            }
+        ]
+    },
+    "Snapshot": {
+        "DisplayName": "Chuckie Egg (1983)(A & F Software)[a]",
+        "FileName": "Chuckie Egg (1983)(A & F Software)[a].z80",
+        "ListName": "Snapshot File",
+        "Type": 0
+    }
+}
